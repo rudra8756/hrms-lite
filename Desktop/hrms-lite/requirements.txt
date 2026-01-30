@@ -1,5 +1,6 @@
-Django
-djangorestframework
-gunicorn
-psycopg2-binary
-django-cors-headers
+asgiref==3.8.1
+Django==5.1.1
+django-cors-headers==4.4.0
+djangorestframework==3.15.2
+dj-database-url==2.2.0
+psycopg2-binary==2.9.9
